@@ -28,7 +28,7 @@ _3. Descomprime el archivo_
 _4. Utilizar aplicacion (Se puede crear un acceso directo que vincule la direccion de la app para ser utilizada o enlazada en la barra de tareas)_
 
 ## Capturas de pantalla 
-foto1.png
+![Image](https://github.com/user-attachments/assets/6840ceec-cf96-4d4e-b21b-f08dfdaf1acc) 
 
 foto2.png
 
