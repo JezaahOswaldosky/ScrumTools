@@ -28,11 +28,11 @@ _3. Descomprime el archivo_
 _4. Utilizar aplicacion (Se puede crear un acceso directo que vincule la direccion de la app para ser utilizada o enlazada en la barra de tareas)_
 
 ## Capturas de pantalla 
-foto1.jpeg
+/foto1.png
 
-foto2.jpeg
+/foto2.png
 
-foto3.jpeg
+/foto3.png
 
 ## Construido con 🛠️
 
