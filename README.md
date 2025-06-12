@@ -19,13 +19,20 @@ _La aplicacion corre en los siguientes SO:_
 
 ### Modo de Uso 🔧
 
-_1. Descargar el archivo dist.rar _
+_1. Descargar el archivo dist.rar_
 
 _2. Introduce el archivo en una carpeta donde quieras la ubicacion de la carpeta_
 
 _3. Descomprime el archivo_
 
 _4. Utilizar aplicacion (Se puede crear un acceso directo que vincule la direccion de la app para ser utilizada o enlazada en la barra de tareas)_
+
+## Capturas de pantalla 
+foto1.jpeg
+
+foto2.jpeg
+
+foto3.jpeg
 
 ## Construido con 🛠️
 
