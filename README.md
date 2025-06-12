@@ -30,9 +30,9 @@ _4. Utilizar aplicacion (Se puede crear un acceso directo que vincule la direcci
 ## Capturas de pantalla 
 ![Image](https://github.com/user-attachments/assets/6840ceec-cf96-4d4e-b21b-f08dfdaf1acc) 
 
-foto2.png
+![Image](https://github.com/user-attachments/assets/c7777cb8-af9f-44db-a1ed-c1c1aa729ae0)
 
-foto3.png
+![Image](https://github.com/user-attachments/assets/e1bc2dcc-eac9-456c-ad8c-711f44d51c20)
 
 ## Construido con 🛠️
 
