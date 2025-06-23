@@ -21,7 +21,7 @@ _La aplicacion corre en los siguientes SO:_
 
 _1. Descargar el archivo dist.rar_
 
-_2. Introduce el archivo en una carpeta donde quieras la ubicacion de la carpeta_
+_2. Introduce el archivo en una carpeta donde quieras la ubicacion del software_
 
 _3. Descomprime el archivo_
 
