@@ -14,8 +14,6 @@ Descargar archivo dist.rar.
 _La aplicacion corre en los siguientes SO:_
 
 * Windows
-* Linux
-* MacOS
 
 ### Modo de Uso 🔧
 
